@@ -25,9 +25,7 @@ One of the reasons I chose this job is because I love to learn new things as muc
 <img alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanBonnal&layout=compact)](https://github.com/TristanBonnal/github-readme-stats)
 
----
 ### Connect with me ☎️
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-bonnal)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bonnal.tristan91@gmail.com)
