@@ -1,6 +1,6 @@
 ## Hello, Tristan speaking 👋
 I'm a backend developer from France and I chose Symfony as my first PHP framework ! I'm working on new projects frequently so I can improve myself.
-After learning Symfony, I want now to know more about API Platform, Docker, AWS, and later Angular JS to improve my frontend skills.
+After learning Symfony, I want now to know more about API Platform, Docker, AWS, and later React.js to improve my frontend skills.
 One of the reasons I chose this job is because I love to learn new things as much as I love helping others when I can.
 
 ---
@@ -22,7 +22,7 @@ One of the reasons I chose this job is because I love to learn new things as muc
 <img align="left" alt="APIPlatform" width="26px" src="./apiPlatform.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 ---
 
