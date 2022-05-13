@@ -1,7 +1,7 @@
 ## Hello, Tristan speaking 👋
 I'm a backend developer from France and I chose Symfony as my first PHP framework ! I'm working on new projects frequently so I can improve myself.
 After learning Symfony, I want now to know more about API Platform, Docker, AWS, and later React.js to improve my frontend skills.
-One of the reasons I chose this job is because I love to learn new things as much as I love helping others when I can.
+One of the reasons I chose this job is because I love to learn new things as much as I love helping others when I can. You can see more details about me and my work on my personal website <a href="https://tristan-bonnal.fr/">tristan-bonnal.fr</a>.
 
 ---
 ### Tools and technologies 🛠️
