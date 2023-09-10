@@ -1,7 +1,5 @@
 ## Hello, Tristan speaking 👋
-I'm a backend developer from France and I chose Symfony as my first PHP framework ! I'm working on new projects frequently so I can improve myself.
-After learning Symfony, I want now to know more about API Platform, Docker, AWS, and later React.js to improve my frontend skills.
-One of the reasons I chose this job is because I love to learn new things as much as I love helping others when I can. You can see more details about me and my work on my personal website <a href="https://tristan-bonnal.fr/">tristan-bonnal.fr</a>.
+I'm a French backend developer specializing in PHP and Symfony. Currently, I'm a developer at Qerys Group, a position I've held since July 2022. I'm enthusiastic about taking on new projects to enhance my skills. My future goal is to become a full-stack developer, with a particular interest in mastering React.js for frontend development. You can explore my work on my personal website: <a href="https://tristan-bonnal.fr/">tristan-bonnal.fr</a>.
 
 ---
 ### Tools and technologies 🛠️
