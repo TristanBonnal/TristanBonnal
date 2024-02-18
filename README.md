@@ -1,7 +1,3 @@
-## Hello, Tristan speaking 👋
-I'm a French backend developer specializing in PHP and Symfony. Currently, I'm a developer at Qerys Group, a position I've held since July 2022. I'm enthusiastic about taking on new projects to enhance my skills. My future goal is to become a full-stack developer, with a particular interest in mastering React.js for frontend development. You can explore my work on my personal website: <a href="https://tristan-bonnal.fr/">tristan-bonnal.fr</a>.
-
----
 ### Tools and technologies 🛠️
 
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
